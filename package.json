@@ -1,0 +1,26 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "Getting started with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lige-w/express.git"
+  },
+  "keywords": [
+    "express",
+    "javascript"
+  ],
+  "author": "Lige Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lige-w/express/issues"
+  },
+  "homepage": "https://github.com/Lige-w/express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
